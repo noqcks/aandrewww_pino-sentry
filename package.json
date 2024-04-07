@@ -38,7 +38,7 @@
     "commander": "^2.20.0",
     "pumpify": "^2.0.1",
     "split2": "^3.1.1",
-    "through2": "^3.0.1"
+    "through2": "^4.0.2"
   },
   "devDependencies": {
     "@jest/types": "^28.1.1",
@@ -47,7 +47,7 @@
     "@types/pino": "^6.3.12",
     "@types/pumpify": "^1.4.1",
     "@types/split2": "^2.1.6",
-    "@types/through2": "^2.0.34",
+    "@types/through2": "^2.0.41",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "eslint": "^6.8.0",
